@@ -74,27 +74,22 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 | `1005`          | `INC AL`             | Increment contents of accumulator |
 | `1007`          | `JNC LOOP`           | Jump if no carry (continue loop) |
 | `1009`          | `JMP START`          | Go to starting location         |
-
 ---
-
 ## Tabulation
 
 | Waveform  | Amplitude | Time period | 
 |-----------|-----------|-------------|
-| Sawtooth  |           |             | 
-| Square    |           |             |
+| Sawtooth  |   7.36v   |   1.500ms   | 
+| Square    |   9.52v   |   6.052ms   |
 ---
-
 ## Model Graph
-
-*(Insert graph/diagram here if available)*
-
+<img width="443" height="377" alt="image" src="https://github.com/user-attachments/assets/f0300383-bbbe-4df2-a09c-66bce915d329" />
+<img width="444" height="376" alt="image" src="https://github.com/user-attachments/assets/5ca527cc-af88-4383-884b-41da7846c8a2" />
 
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
-
-
-
+<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/ba40f345-73cc-4c28-aef7-e833a886bd0e" />
+<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/0d3329f6-0523-472e-a2c1-9ef3e978c5e9" />
 
 ## Result
 
